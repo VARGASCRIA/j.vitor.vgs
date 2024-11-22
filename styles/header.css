@@ -57,7 +57,11 @@
 .container__botao {
   display: none;
 }
-container __titulo {}
+.container __titulo {}
+    display: none
+}
+
+.opções {
     display: none
 }
 
@@ -96,4 +100,12 @@ container __titulo {}
 
 .opções__link {
     text-decoration: none
+    color: var(--preto)
+}
+container__imagem-transparente {
+  display: none;
+}
+
+.cabeçalho_menu-hamburguer {
+    display: none;
 }
