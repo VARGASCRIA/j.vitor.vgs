@@ -57,9 +57,12 @@
 .container__botao {
   display: none;
 }
-.container __titulo {}
-    display: none
+.container __titulo {
+  display: none;
+
 }
+   
+
 
 .opções {
     display: none
